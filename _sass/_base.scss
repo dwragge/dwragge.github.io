@@ -36,6 +36,10 @@ article {
   flex: 1;
 }
 
+article a {
+  text-decoration: underline;
+}
+
 html, body {
   height: 100%;
 }
