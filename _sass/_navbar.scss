@@ -1,0 +1,26 @@
+nav a.active {
+    pointer-events: none;
+    text-decoration: underline;
+}
+
+nav {
+    overflow: hidden;
+    display: flex;
+    max-width: 1000px;
+    margin: auto;
+    width: 100%;
+}
+
+nav.blog {
+    max-width: 2000px;
+    padding-right: 20px;
+}
+
+nav a {
+    float: left;
+    padding: 14px 16px;
+}
+
+.name {
+    margin-right: auto;
+}
