@@ -3,7 +3,6 @@ layout: page
 ---
 ![Me](/assets/img/me-sml.jpg)
 
-
 # Who Am I?  
 
 I am currently attending the University of Auckland, pursuing a conjoint BA/BSc degree majoring in French and Computer Science, as well as taking a number of Mathematics papers. In order to pay the bills and travel the world, I also work part-time as a salesperson at Noel Leeming (if you need a new washing machine, let me know!)
