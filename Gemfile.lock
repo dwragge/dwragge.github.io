@@ -46,6 +46,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   octopress-autoprefixer
+  rouge
 
 BUNDLED WITH
    1.16.1

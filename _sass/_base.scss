@@ -132,6 +132,18 @@ a {
   }
 }
 
+.mbtablestyle {
+  border-collapse: collapse;
+  > table, td, th {
+    border: 1px solid black;
+    padding: 1rem;
+  }
+}
+
+.highlight {
+  padding: 1rem;
+}
+
 figure {
   margin: 0;
 }
