@@ -136,13 +136,17 @@ a {
   border-collapse: collapse;
   > table, td, th {
     border: 1px solid black;
-    padding: 1rem;
+    padding: 5px;
+  }
+  >table {
+    width: 100%;
   }
 }
 
 .highlight {
   padding: 1rem;
   margin-bottom: 1rem;
+  overflow-x: scroll;
 }
 
 figure {
