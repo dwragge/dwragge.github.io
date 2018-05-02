@@ -10,10 +10,10 @@ body {
   height:100vh;
   padding:1em;
   @media (min-width: 1601px) {
-    background-image: url("../img/index-4k.jpg");
+    background-image: url("https://s3-ap-southeast-2.amazonaws.com/dylanwragge-blob/dylanwragge-com/index-4k.jpg");
   }
   @media (max-width: 1600px) {
-    background-image: url("../img/index-2k.jpg");
+    background-image: url("https://s3-ap-southeast-2.amazonaws.com/dylanwragge-blob/dylanwragge-com/index-2k.jpg");
   }
   
   background-size: cover;

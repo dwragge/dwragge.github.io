@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-![Me](/assets/img/me-sml.jpg)
+![Me](https://s3-ap-southeast-2.amazonaws.com/dylanwragge-blob/dylanwragge-com/me-sml.jpg)
 
 # Who Am I?  
 
