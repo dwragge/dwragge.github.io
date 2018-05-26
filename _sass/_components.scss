@@ -384,12 +384,16 @@
  */
 .post {
   width: 90%;
-  max-width: $mq-md;
+  //max-width: $mq-md;
   margin: 0 auto;
 
   font-family: $font-post;
 
-  @media (min-width: $mq-md) {
+  @media (min-width: 1000px) {
+    width: 68%;
+  }
+
+  @media (min-width: 1919px) {
     width: 55%;
   }
 
@@ -433,10 +437,6 @@
 
   p:first-child {
     font-size: 1.25em;
-  }
-
-  a {
-    border-bottom: 1px solid $color-alpha;
   }
 
   img {
